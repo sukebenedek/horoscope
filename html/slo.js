@@ -3,7 +3,7 @@ const horoscopes = [
     "A mysterious breeze will remind you of a snack you forgot you had.",
     "Your socks may choose to disappear at critical moments.",
     "Avoid making eye contact with pigeons today. They know too much.",
-    "You will accidentally say \'you too\' at the wrong time.",
+    "You will accidentally say you too at the wrong time.",
     "A forgotten USB stick will return to haunt your thoughts.",
     "Your cereal may behave unpredictably this afternoon.",
     "You might meet someone who looks suspiciously like you.",
@@ -14,11 +14,11 @@ const horoscopes = [
     "You will think about doing exercise, but decide against it.",
     "A dog will judge you silently from a distance.",
     "You may sneeze exactly twice today.",
-    "Someone will say \'long time no see,\' even if you saw them yesterday.",
+    "Someone will say long time no see, even if you saw them yesterday.",
     "You will feel proud for doing the bare minimum.",
     "A vending machine will test your patience.",
-    "You might crave a food you don\'t even like.",
-    "A random stranger will remind you of a movie you haven\'t seen.",
+    "You might crave a food you dont even like.",
+    "A random stranger will remind you of a movie you havent seen.",
     "You may experience unexplained confidence before losing it instantly.",
     "Your hair will behave unpredictably.",
     "An item you lost will reappear where you swear you looked already.",
@@ -27,7 +27,7 @@ const horoscopes = [
     "Expect mild chaos when opening a bag of snacks.",
     "A mirror will show you a version of yourself you're unsure about.",
     "You may feel betrayed by the weather.",
-    "Someone will ask you a question you weren\'t prepared for.",
+    "Someone will ask you a question you werent prepared for.",
     "Your plans will change due to a micro-inconvenience."
 ];
 
