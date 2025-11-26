@@ -1,0 +1,14 @@
+ body {
+     font-family: Arial;
+     padding: 20px;
+     font-family:'comic sans ms';
+ }
+
+ #result, #chosen {
+     margin-top: 20px;
+     font-size: 18px;
+ }
+
+ body{
+    text-align: center;
+ }
