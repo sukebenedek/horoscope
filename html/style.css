@@ -1,14 +1,15 @@
- body {
-     font-family: Arial;
-     padding: 20px;
-     font-family:'comic sans ms';
- }
+body {
+    font-family: Arial;
+    padding: 20px;
+    font-family: 'comic sans ms';
+    background-color: #8ace00;
+}
 
- #result, #chosen {
-     margin-top: 20px;
-     font-size: 18px;
- }
+#result, #chosen {
+    margin-top: 20px;
+    font-size: 18px;
+}
 
- body{
+body {
     text-align: center;
- }
+}
